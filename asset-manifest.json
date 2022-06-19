@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.842dc868.css",
+    "main.js": "/static/js/main.fc5487b7.js",
+    "static/media/twitter-logo.svg": "/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "index.html": "/index.html",
+    "main.842dc868.css.map": "/static/css/main.842dc868.css.map",
+    "main.fc5487b7.js.map": "/static/js/main.fc5487b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842dc868.css",
+    "static/js/main.fc5487b7.js"
+  ]
+}
